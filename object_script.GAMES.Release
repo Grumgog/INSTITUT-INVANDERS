@@ -1,0 +1,14 @@
+INPUT(
+./release\main.o
+./release\widget.o
+./release\paintobjectabstract.o
+./release\point.o
+./release\npc.o
+./release\player.o
+./release\enemy.o
+./release\bullet.o
+./release\helping.o
+./release\statusmanager.o
+./release\soundplayer.o
+./release\moc_widget.o
+);
